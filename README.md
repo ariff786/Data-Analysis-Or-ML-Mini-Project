@@ -38,4 +38,4 @@ The dataset contains customer-level information for a span of four consecutive m
 
 Filename: telecom_churn_data.csv
 
-NARENDRA.TIWARI PGDBA.ML.PROJECT
+Mohd Arif
